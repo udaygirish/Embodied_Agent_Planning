@@ -69,3 +69,6 @@ information.
    Scene no : 1-6
    ```bash
    python main.py -s <SCENE_NO>
+
+3. Note that we have provided some sample scenes we used from the Matterport HM3D Data after getting access from them. For more scenes please fill out their application for Access and download and use. The example scenes we have given in this repo are purely for ACADEMIC USE.
+4. For more understanding please email us.
