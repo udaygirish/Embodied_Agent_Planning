@@ -1,6 +1,6 @@
 # Language Embodied Navigation using Local and Global Planners
 
-This project aims to convert human language-defined tasks into a sequence of actions understandable by a robot. The inspiration comes from the Facebook AI Habitat Challenge.
+This project aims to convert human language-defined tasks into a sequence of actions understandable by a Robot. The inspiration comes from the Facebook AI Habitat Challenge.
 
 ## Project Dependencies
 
